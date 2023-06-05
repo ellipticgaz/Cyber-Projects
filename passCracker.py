@@ -1,4 +1,4 @@
-# This programme uses a brute force method to crack passwords entered by user.
+# This programme uses a brute force method to crack passwords entered by.
 
 import random
 
